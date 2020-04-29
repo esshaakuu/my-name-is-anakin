@@ -1,0 +1,41 @@
+img {
+  width: 100%;
+}
+
+h1, h2 {
+  position: absolute;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h1 {
+  
+}
+
+q {
+  quotes: "" "";
+  font-family: 'Abril Fatface', cursive;
+}
+
+p, ul {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.bigger-text {
+  
+}
+
+.smaller-text {
+  
+}
+
+.upper-case {
+  font-family: 'Merriweather', serif;
+}
+
+.subtitles {
+  
+}
+
+/* Horizonal line @ the bottom */
+hr {
+  border: 1px solid black;
